@@ -11,7 +11,7 @@ property uchar blue
 element face 358
 property list uchar int vertex_index
 end_header
--0.1 -0.4 0 102 51 0
+-0.1 -0.5 0 102 51 0
 -0.1 -0.4 0.1 102 51 0
 -0.1 -0.3 0.1 102 51 0
 -0.1 -0.3 0 102 51 0
